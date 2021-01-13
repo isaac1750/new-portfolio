@@ -25,7 +25,7 @@ SECRET_KEY =
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['167.99.214.127','ike1750.xyz','www.ike1750.xyz']
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
